@@ -1,0 +1,16 @@
+.aboutBg{
+    background-color: #1ABC9C !important;
+    width: 100% !important;
+    height: 85vh !important;
+}
+
+/* .aboutIcon::after{
+    content: '' !important; 
+    height: 20px !important;
+    width: 200px !important;
+    background-color: white !important;
+    top: 50%;
+    right: 50%;
+    z-index: 999999;
+    
+} */
